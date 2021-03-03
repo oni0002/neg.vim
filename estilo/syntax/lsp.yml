@@ -1,0 +1,11 @@
+LspDiagnosticsDefaultError: 'brred'
+LspDiagnosticsUnderlineError: '- - c'
+
+LspDiagnosticsDefaultWarning: 'bryellow'
+LspDiagnosticsUnderlineWarning: '- - c'
+
+LspDiagnosticsDefaultInformation: 'brgreen'
+LspDiagnosticsUnderlineInformation: '- - c'
+
+LspDiagnosticsDefaultHint: 'brcyan'
+LspDiagnosticsUnderlineHint: '- - c'

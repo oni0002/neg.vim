@@ -1,0 +1,33 @@
+LspFloatWinBorder: 'fg'
+LspSagaBorderTitle: 'fg'
+
+LspSagaLspFinderBorder: 'fg'
+LspSagaFinderSelection: 'fg - b'
+LspSagaAutoPreview: 'fg'
+TargetWord: 'red'
+ReferencesCount: 'fg'
+ReferencesIcon: 'fg'
+DefinitionCount: 'fg'
+DefinitionIcon: 'fg'
+
+LspSagaDiagnosticBorder: 'fg'
+LspSagaDiagnosticHeader: 'fg'
+LspSagaDiagnosticTruncateLine: 'gray1'
+
+LspSagaSignatureHelpBorder: 'fg'
+LspSagaShTruncateLine: 'gray1'
+
+LspSagaDocTruncateLine: 'gray1'
+
+LspSagaCodeActionBorder: 'fg'
+LspSagaCodeActionTitle: 'fg'
+LspSagaCodeActionTruncateLine: 'gray1'
+LspSagaCodeActionContent: 'fg'
+
+LspSagaRenamePromptPrefix: 'fg'
+LspSagaRenameBorder: 'fg'
+
+LspSagaHoverBorder: 'fg'
+
+LspSagaDefPreviewBorder: 'fg'
+DefinitionPreviewTitle: 'fg'

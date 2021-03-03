@@ -1,0 +1,82 @@
+# BASE UI
+ColorColumn: '- bg'
+Conceal: '- -'
+Cursor: '- yellow'
+CursorIM: ''
+CursorColumn: '- gray0'
+CursorLine: '- gray0'
+CursorLineNr: 'fg gray0'
+Directory: 'blue'
+DiffAdd: 'brgreen'
+DiffChange: 'brcyan'
+DiffDelete: 'brred'
+DiffText: 'bryellow'
+ErrorMsg: 'red -'
+VertSplit: 'gray1'
+Folded: 'gray3 gray0'
+FoldColumn: '- -'
+SignColumn: '- -'
+IncSearch: 'bg brcyan b'
+LineNr: 'gray1'
+MatchParen: 'fg - u'
+ModeMsg: 'green'
+MoreMsg: 'green'
+NonText: 'gray2 bg'
+Normal: 'fg bg'
+PMenu: 'fg gray1'
+PMenuSel: 'black blue'
+PmenuSbar: '- -'
+PmenuThumb: 'white'
+Question: 'red'
+Search: '- - r'
+SpecialKey: 'gray1'
+SpellBad: '- - c'
+SpellLocal: '- - c'
+SpellCap: 'green - c'
+SpellRare: '- - c'
+StatusLine: 'fg bg'
+StatusLineNC: 'gray2 bg'
+TabLine: 'fg bg'
+TabLineFill: '- bg'
+TabLineSel: 'gray5'
+Title: 'green'
+Visual: '- gray1'
+VisualNOS: ''
+WarningMsg: ''
+WildMenu: 'gray3 blue'
+# BASE SYNTAX
+Comment: 'gray3'
+Constant: 'magenta'
+String: 'green' # Constant
+Character: '' # Constant
+Boolean: '' # Constant
+Number: '' # Constant
+Float: '' # Constant
+Identifier: 'red'
+Function: 'blue' # Identifier
+Statement: 'red'
+Conditional: '' # Statement
+Repeat: '' # Statement
+Label: 'fg' # Statement
+Operator: '' # Statement
+Keyword: '' # Statement
+Exception: '' # Statement
+PreProc: 'red'
+Include: '' # PreProc
+Define: '' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: 'red'
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: 'yellow'
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: 'red' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: ''
+Ignore: ''
+Error: ''
+Todo: 'brred - b'

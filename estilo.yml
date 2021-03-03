@@ -1,0 +1,10 @@
+name: 'neg'
+version: '1.0.0'
+license: 'MIT'
+author: ''
+url: ''
+description: ''
+colorschemes:
+  - name: neg
+    background: 'dark'
+    palette: neg

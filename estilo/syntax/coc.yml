@@ -1,0 +1,4 @@
+CocErrorSign: 'brred'
+CocWarningSign: 'bryellow'
+CocInfoSign: 'brgreen'
+CocHintSign: 'brcyan'
