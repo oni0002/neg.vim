@@ -4,7 +4,7 @@
 " URL: 
 " Author: 
 " License: MIT
-" Last Change: 2021/03/03 16:58
+" Last Change: 2021/03/04 00:34
 " ===============================================================
 
 set background=dark
@@ -43,7 +43,7 @@ hi VertSplit guifg=#1a1a1a ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi Folded guifg=#333333 ctermfg=236 guibg=#0d0d0d ctermbg=232 gui=NONE cterm=NONE
 hi FoldColumn guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SignColumn guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi IncSearch guifg=#000000 ctermfg=0 guibg=#4d9999 ctermbg=66 gui=Bold cterm=Bold
+hi IncSearch guifg=#000000 ctermfg=0 guibg=#99994d ctermbg=101 gui=NONE cterm=NONE
 hi LineNr guifg=#1a1a1a ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#999999 ctermfg=246 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi ModeMsg guifg=#85997a ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -52,14 +52,14 @@ hi NonText guifg=#262626 ctermfg=235 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
 hi Normal guifg=#999999 ctermfg=246 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
 hi PMenu guifg=#999999 ctermfg=246 guibg=#1a1a1a ctermbg=234 gui=NONE cterm=NONE
 hi PMenuSel guifg=#000000 ctermfg=0 guibg=#7a8599 ctermbg=102 gui=NONE cterm=NONE
-hi PmenuSbar guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi PmenuThumb guifg=#cccccc ctermfg=252 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi PmenuSbar guifg=NONE ctermfg=NONE guibg=#1a1a1a ctermbg=234 gui=NONE cterm=NONE
+hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#333333 ctermbg=236 gui=NONE cterm=NONE
 hi Question guifg=#997a7a ctermfg=8 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Search guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
+hi Search guifg=#000000 ctermfg=0 guibg=#999999 ctermbg=246 gui=NONE cterm=NONE
 hi SpecialKey guifg=#1a1a1a ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl
 hi SpellLocal guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl
-hi SpellCap guifg=#85997a ctermfg=102 guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl
+hi SpellCap guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl
 hi SpellRare guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl
 hi StatusLine guifg=#999999 ctermfg=246 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
 hi StatusLineNC guifg=#262626 ctermfg=235 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
@@ -80,6 +80,7 @@ hi PreProc guifg=#997a7a ctermfg=8 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Type guifg=#997a7a ctermfg=8 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Special guifg=#99997a ctermfg=246 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Delimiter guifg=#997a7a ctermfg=8 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Error guifg=#000000 ctermfg=0 guibg=#994d4d ctermbg=95 gui=NONE cterm=NONE
 hi Todo guifg=#994d4d ctermfg=95 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
 hi CocErrorSign guifg=#994d4d ctermfg=95 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocWarningSign guifg=#99994d ctermfg=101 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
