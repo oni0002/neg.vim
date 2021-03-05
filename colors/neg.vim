@@ -4,7 +4,7 @@
 " URL: 
 " Author: 
 " License: MIT
-" Last Change: 2021/03/04 00:34
+" Last Change: 2021/03/05 13:54
 " ===============================================================
 
 set background=dark
@@ -48,7 +48,7 @@ hi LineNr guifg=#1a1a1a ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#999999 ctermfg=246 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi ModeMsg guifg=#85997a ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MoreMsg guifg=#85997a ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi NonText guifg=#262626 ctermfg=235 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
+hi NonText guifg=#262626 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#999999 ctermfg=246 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
 hi PMenu guifg=#999999 ctermfg=246 guibg=#1a1a1a ctermbg=234 gui=NONE cterm=NONE
 hi PMenuSel guifg=#000000 ctermfg=0 guibg=#7a8599 ctermbg=102 gui=NONE cterm=NONE
