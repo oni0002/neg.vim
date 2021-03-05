@@ -4,7 +4,7 @@
 " URL: 
 " Author: 
 " License: MIT
-" Last Change: 2021/03/05 13:59
+" Last Change: 2021/03/05 14:08
 " ===============================================================
 
 set background=dark
@@ -68,7 +68,7 @@ hi TabLineFill guifg=NONE ctermfg=NONE guibg=#000000 ctermbg=0 gui=NONE cterm=NO
 hi TabLineSel guifg=#4d4d4d ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Title guifg=#85997a ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#1a1a1a ctermbg=234 gui=NONE cterm=NONE
-hi WarningMsg guifg=#994d4d ctermfg=95 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WarningMsg guifg=#997a7a ctermfg=8 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#333333 ctermfg=236 guibg=#7a8599 ctermbg=102 gui=NONE cterm=NONE
 hi Comment guifg=#333333 ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#997a99 ctermfg=246 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
