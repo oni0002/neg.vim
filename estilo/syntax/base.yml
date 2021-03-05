@@ -42,7 +42,7 @@ TabLineSel: 'gray5'
 Title: 'green'
 Visual: '- gray1'
 VisualNOS: ''
-WarningMsg: ''
+WarningMsg: 'brred'
 WildMenu: 'gray3 blue'
 # BASE SYNTAX
 Comment: 'gray3'
