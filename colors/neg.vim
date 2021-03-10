@@ -4,7 +4,7 @@
 " URL: 
 " Author: 
 " License: MIT
-" Last Change: 2021/03/05 14:08
+" Last Change: 2021/03/10 14:37
 " ===============================================================
 
 set background=dark
@@ -34,10 +34,10 @@ hi CursorColumn guifg=NONE ctermfg=NONE guibg=#0d0d0d ctermbg=232 gui=NONE cterm
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#0d0d0d ctermbg=232 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#999999 ctermfg=246 guibg=#0d0d0d ctermbg=232 gui=NONE cterm=NONE
 hi Directory guifg=#7a8599 ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffAdd guifg=#66994d ctermfg=65 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffChange guifg=#4d9999 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffDelete guifg=#994d4d ctermfg=95 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffText guifg=#99994d ctermfg=101 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi DiffAdd guifg=#85997a ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi DiffChange guifg=#7a9999 ctermfg=246 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi DiffDelete guifg=#997a7a ctermfg=8 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi DiffText guifg=#99997a ctermfg=246 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi ErrorMsg guifg=#997a7a ctermfg=8 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#1a1a1a ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Folded guifg=#333333 ctermfg=236 guibg=#0d0d0d ctermbg=232 gui=NONE cterm=NONE
