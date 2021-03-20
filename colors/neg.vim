@@ -4,7 +4,7 @@
 " URL: 
 " Author: 
 " License: MIT
-" Last Change: 2021/03/10 14:37
+" Last Change: 2021/03/20 13:52
 " ===============================================================
 
 set background=dark
@@ -63,9 +63,9 @@ hi SpellCap guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=
 hi SpellRare guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl
 hi StatusLine guifg=#999999 ctermfg=246 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
 hi StatusLineNC guifg=#262626 ctermfg=235 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
-hi TabLine guifg=#999999 ctermfg=246 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
+hi TabLine guifg=#333333 ctermfg=236 guibg=#000000 ctermbg=0 gui=Bold cterm=Bold
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
-hi TabLineSel guifg=#4d4d4d ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TabLineSel guifg=#999999 ctermfg=246 guibg=#000000 ctermbg=0 gui=Bold cterm=Bold
 hi Title guifg=#85997a ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#1a1a1a ctermbg=234 gui=NONE cterm=NONE
 hi WarningMsg guifg=#997a7a ctermfg=8 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
